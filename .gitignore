@@ -3,6 +3,5 @@
 /.vs
 /Build
 /Plugins
-/Content/CityPark/Maps
 *.sln
 *_BuiltData.uasset
