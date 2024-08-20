@@ -3,5 +3,6 @@
 /.vs
 /Build
 /Plugins
+/Content/CitySampleVehicles/Material/MaterialLayer/T_Plastic_Micro_03_N.uasset
 *.sln
 *_BuiltData.uasset
